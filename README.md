@@ -9,8 +9,8 @@
 
 - :sparkles: Little fact: My new hobby is drawing with CSS
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanawebdev&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanawebdev&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenushka-jpg&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenushka-jpg&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
