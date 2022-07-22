@@ -24,5 +24,5 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint)
 ![Leaflet](https://img.shields.io/badge/-Leaflet-090909?style=for-the-badge&logo=Leaflet)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Pug](https://img.shields.io/badge/-PUG-red-090909?style=for-the-badge&logo=Pug)
+![Pug](https://img.shields.io/badge/-PUG-090909?style=for-the-badge&logo=Pug)
 
