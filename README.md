@@ -1,4 +1,4 @@
-### Hello my friends and also new friends 👋, I'm Aliona
+### Hello my friends and also new friends 👋, I'm Alyona
 
 ## Junior Front-end developer
 - ✋ I speak Russian and study English
