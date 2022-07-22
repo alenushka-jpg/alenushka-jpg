@@ -7,7 +7,7 @@
 - :school_satchel: I constantly learn and read
 - :computer: I would like to work and learn new tech in parallel
 
-- :sparkles: I like to run, do yoga and I also learn to swim.
+- :sparkles: I like to run, do yoga and I also learn to swim. 🏊
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenushka-jpg&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenushka-jpg&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/)
