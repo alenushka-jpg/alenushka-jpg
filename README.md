@@ -4,7 +4,7 @@
 
 - :computer: Started learning frontend in 2021
 - :mag_right: I have completed one year education at  <a href="https://htmlacademy.ru">htmlacademy.ru</a> on frontend developer
-- At the moment I have internship in company <a href="https://ligaa.agency/">Liga A</a>
+- 👩‍💻 At the moment I have internship in company <a href="https://ligaa.agency/">Liga A</a>
 - 🤓 Competency in HTML/PUG, CSS3/SCSS
 - 🧩 Currently learning js, react
 - :hourglass_flowing_sand: Constantly learn and read new topics about webdev
