@@ -3,7 +3,7 @@
 ## Junior Front-end developer
 
 - :computer: Started learning frontend in 2021
-- :mag_right: I have completed one year education at [url=https://htmlacademy.ru/]htmlacademy.ru[/url] on frontend developer
+- :mag_right: I have completed one year education at htmlacademy.ru on frontend developer
 - 🤓 Competency in HTML/Pug, CSS3/SCSS
 - 🧩 Currently learning js, react
 - :hourglass_flowing_sand: Constantly learn and read new topics about webdev
