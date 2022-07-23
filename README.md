@@ -3,13 +3,13 @@
 ## Junior Front-end developer
 
 - :computer: Started learning frontend in 2021
-- :mag_right: I have completed one year education at htmlacademy.ru on frontend developer
+- :mag_right: I have completed one year education at  <a href="htmlacademy.ru">htmlacademy.ru</a> on frontend developer
 - 🤓 Competency in HTML/Pug, CSS3/SCSS
 - 🧩 Currently learning js, react
 - :hourglass_flowing_sand: Constantly learn and read new topics about webdev
 - :dart: My goal is to find a team with which I can improve as a specialist
-- My hobbies running, yoga, books
-- Speak Russian, English (improving). 📍 From Belarus
+- 💪 My hobbies running, yoga, books
+- 🌍︎ Speak Russian, English (improving). 📍 From Belarus
 
 ### Languages and Tools:
 
@@ -31,5 +31,6 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-556B2F?style=for-the-badge&logo=Node.js)  
 ![npm](https://img.shields.io/badge/-npm-ADFF2F?style=for-the-badge&logo=npm) 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenushka-jpg&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenushka-jpg&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenushka-jpg&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
