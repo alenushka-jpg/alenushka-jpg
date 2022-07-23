@@ -12,11 +12,11 @@
 
 ### Languages and Tools:
 
-![Figma](https://img.shields.io/badge/-Figma-brightgreen?style=for-the-badge&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-3CB371?style=for-the-badge&logo=Figma)
 ![HTML5](https://img.shields.io/badge/-HTML5-yellowgreen?style=for-the-badge&logo=HTML5)
 ![Pug](https://img.shields.io/badge/-PUG-orange?style=for-the-badge&logo=Pug)
 ![CSS3](https://img.shields.io/badge/-CSS3-lightgrey?style=for-the-badge&logo=CSS3)
-![Less](https://img.shields.io/badge/-Less-Cornflowerblue?style=for-the-badge&logo=Less)
+![Less](https://img.shields.io/badge/-Less-FFA07A?style=for-the-badge&logo=Less)
 ![SCSS](https://img.shields.io/badge/-SCSS-CD5C5C?style=for-the-badge&logo=SASS)
 ![БЭМ](https://img.shields.io/badge/-БЭМ-EE82EE?style=for-the-badge&logo=БЭМ)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=for-the-badge&logo=JavaScript)
@@ -25,7 +25,7 @@
 ![Swiper](https://img.shields.io/badge/-swiper.js-FFA07A?style=for-the-badge&logo=swiper.js)
 ![React](https://img.shields.io/badge/-React-DA70D6?style=for-the-badge&logo=react)
 ![VSCode](https://img.shields.io/badge/-VSCode-3CB371?style=for-the-badge&logo=visualstudiocode)
-![ESLint](https://img.shields.io/badge/-ESLint-688E23?style=for-the-badge&logo=ESLint)
+![ESLint](https://img.shields.io/badge/-ESLint-FFDAB9?style=for-the-badge&logo=ESLint)
 ![Git](https://img.shields.io/badge/-Git-ADD8E6?style=for-the-badge&logo=Git)
 ![NodeJS](https://img.shields.io/badge/-Node.js-556B2F?style=for-the-badge&logo=Node.js)  
 ![npm](https://img.shields.io/badge/-npm-ADFF2F?style=for-the-badge&logo=npm) 
