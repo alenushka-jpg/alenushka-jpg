@@ -3,13 +3,17 @@
 ## Junior Front-end developer
 
 - :computer: Started learning frontend in 2021
-- :mag_right: I have completed one year education at  <a href="https://htmlacademy.ru" target=»_blank»>htmlacademy.ru</a> on frontend developer
+- :mag_right: I have completed one year education at  <a href="https://htmlacademy.ru">htmlacademy.ru</a> on frontend developer
+- At the moment I have internship in company <a href="https://ligaa.agency/">Liga A</a>
 - 🤓 Competency in HTML/PUG, CSS3/SCSS
 - 🧩 Currently learning js, react
 - :hourglass_flowing_sand: Constantly learn and read new topics about webdev
 - :dart: My goal is to find a team with which I can improve as a specialist
 - 💪 My hobbies running, yoga, books
 - 🌍︎ Speak Russian, English (improving). 📍 From Belarus
+
+
+
 
 ### Languages and Tools:
 
