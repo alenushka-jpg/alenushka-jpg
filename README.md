@@ -2,13 +2,14 @@
 
 ## Junior Front-end developer
 
-- ✋ I speak Russian and study English
-- 🤓 I constantly learn and read
-- 🧩 I would like to work and learn new tech in parallel
-- 📍  now I live in belarus
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenushka-jpg&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenushka-jpg&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/)
+- :computer: Started learning frontend in 2021
+- :mag_right: I have completed one year education at [url=https://htmlacademy.ru/]htmlacademy.ru[/url] on frontend developer
+- 🤓 Competency in HTML/Pug, CSS3/SCSS
+- 🧩 Currently learning js, react
+- :hourglass_flowing_sand: Constantly learn and read new topics about webdev
+- :dart: My goal is to find a team with which I can improve as a specialist
+- My hobbies running, yoga, books
+- Speak Russian, English (improving). 📍 From Belarus
 
 ### Languages and Tools:
 
@@ -29,3 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-ADD8E6?style=for-the-badge&logo=Git)
 ![NodeJS](https://img.shields.io/badge/-Node.js-556B2F?style=for-the-badge&logo=Node.js)  
 ![npm](https://img.shields.io/badge/-npm-ADFF2F?style=for-the-badge&logo=npm) 
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenushka-jpg&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenushka-jpg&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/)
