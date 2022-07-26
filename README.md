@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-ADD8E6?style=for-the-badge&logo=Git)
 ![NodeJS](https://img.shields.io/badge/-Node.js-556B2F?style=for-the-badge&logo=Node.js)  
 ![npm](https://img.shields.io/badge/-npm-ADFF2F?style=for-the-badge&logo=npm) 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenushka-jpg&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenushka-jpg&theme=dark&langs_count=8&layout=compact)](https://github.com/alenushka-jpg/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenushka-jpg&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/alenushka-jpg/)  
