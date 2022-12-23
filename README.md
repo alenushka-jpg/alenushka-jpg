@@ -10,8 +10,7 @@
 - :hourglass_flowing_sand: Constantly learn and read new topics about webdev
 - :dart: My goal is to find a team with which I can improve as a specialist
 - 💪 My hobbies running, yoga, books
-- 🌍︎ Speak Russian, English (improving). 📍 From Belarus
-
+- 🌍︎ Speak Russian, English (improving). 📍 From Israel
 
 
 
